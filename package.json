@@ -1,0 +1,26 @@
+{
+  "name": "express-sec",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo No tests defined!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarvinJWendt/express-sec.git"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "security",
+    "guard",
+    "server"
+  ],
+  "author": "MarvinJWendt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarvinJWendt/express-sec/issues"
+  },
+  "homepage": "https://github.com/MarvinJWendt/express-sec#readme"
+}
